@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  zjlao
+
+  Created by WY on 16/11/4.
+  Copyright © 2016年 com.16lao.zjlao. All rights reserved.
+*/
+/*        NSLocalizedString(<#T##key: String##String#>, comment: <#T##String#>) //默认加载Loaclizable.strings 中的键值对
+ NSLocalizedString(<#T##key: String##String#>, tableName: <#T##String?#>, bundle: <#T##Bundle#>, value: <#T##String#>, comment: <#T##String#>) //当tableName为nil ,  bundle也为nil时 ,等价于上面这句代码// 当key为nil或者key找不到对应的值时  , 返回value的值
+ */
+"tabBar_home" = "home";
+"tabBar_classify" = "classify";
+"tabBar_lao" = "lao";
+"tabBar_shopcar" = "shopcar";
+"tabBar_profile" = "profile";
+
+
+
+"languageID" = "en-US";
+"languageDisplayName" = "english";
+//提示语
+
+"currentLanguageIs" = "currentLanguageIsAlriday";
+"languageChangeing" = "languageChangeing...";
+"confirm" = "confirm";
+"cancel" = "cancel";
+"applyAfterRestart" = "applyAfterRestart" ;
+//下拉刷新
+"pullDownRefresh"  = "pullDownRefresh";
+"unloosenRefresh"  = "unloosenRefresh";
+"refreshing"  = "refreshing";
+
+
+"pullUpLoad" = "pullUpLoad";
+"unloosenLoad"  = "unloosenLoad";
+"loading"  = "loading";
+"noMoreData"  = "noMoreData";
+
+//设置页面
+"SSetting" = "setting" ;
+"SSoundNotice" = "sound" ;
+"SImageQuarlity" = "imageQuarlity" ;
+"SSmartMode" = "smartMode" ;
+"SClearCache" = "clearCache" ;
+"SGrade" = "grade" ;
+"SChangeLanguage" = "changeLanguage" ;
+"SCurrentVersion" = "currentVersion" ;
+"SLoginout" = "loginout" ;

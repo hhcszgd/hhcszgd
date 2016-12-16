@@ -1,0 +1,49 @@
+/* 
+  english.strings
+  zjlao
+
+  Created by WY on 16/11/4.
+  Copyright © 2016年 com.16lao.zjlao. All rights reserved.
+*/
+/*
+ 
+ //提示语
+ 
+ NSLocalizedString(<#T##key: String##String#>, tableName: "LocalizableEN", bundle: <#T##Bundle#>, value: <#T##String#>, comment: <#T##String#>) //要想取这个文件中的字符串 , 需要指定tableName为这个文件名称
+ */
+"languageID" = "en-US";
+"languageDisplayName" = "english";
+
+"tabBar_home" = "home";
+"tabBar_classify" = "classify";
+"tabBar_lao" = "lao";
+"tabBar_shopcar" = "shopcar";
+"tabBar_profile" = "profile";
+
+"currentLanguageIs" = "currentLanguageIsAlriday";
+"languageChangeing" = "languageChangeing...";
+
+"confirm" = "confirm";
+"cancel" = "cancel";
+"applyAfterRestart" = "applyAfterRestart" ;
+//下拉刷新
+"pullDownRefresh"  = "pullDownRefresh";
+"unloosenRefresh"  = "unloosenRefresh";
+"refreshing"  = "refreshing";
+
+
+"pullUpLoad" = "pullUpLoad";
+"unloosenLoad"  = "unloosenLoad";
+"loading"  = "loading";
+"noMoreData"  = "noMoreData";
+
+//设置页面
+"SSetting" = "setting" ;
+"SSoundNotice" = "sound" ;
+"SImageQuarlity" = "imageQuarlity" ;
+"SSmartMode" = "smartMode" ;
+"SClearCache" = "clearCache" ;
+"SGrade" = "grade" ;
+"SChangeLanguage" = "changeLanguage" ;
+"SCurrentVersion" = "currentVersion" ;
+"SLoginout" = "loginout" ;

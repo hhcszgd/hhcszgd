@@ -1,0 +1,43 @@
+/* 
+  simplified.strings
+  zjlao
+
+  Created by WY on 16/11/5.
+  Copyright © 2016年 com.16lao.zjlao. All rights reserved.
+*/
+"languageID" = "zh-Hans-US";
+"languageDisplayName" = "简体中文";
+
+"tabBar_home" = "首页";
+"tabBar_classify" = "分类";
+"tabBar_lao" = "捞";
+"tabBar_shopcar" = "购物车";
+"tabBar_profile" = "我的";
+
+//提示语
+"currentLanguageIs" = "当前语言已经是";
+"languageChangeing" = "语言切换中 请稍后...";
+"confirm" = "确定";
+"cancel" = "取消";
+"applyAfterRestart" = "重启以生效" ;
+//下拉刷新
+"pullDownRefresh"  = "下拉刷新";
+"unloosenRefresh"  = "松开立即刷新";
+"refreshing"  = "刷新中...";
+
+
+"pullUpLoad" = "上拉加载更多";
+"unloosenLoad"  = "松开立即加载";
+"loading"  = "正在加载...";
+"noMoreData"  = "-- 亲,你看完了 --";
+
+//设置页面
+"SSetting" = "设置" ;
+"SSoundNotice" = "消息通知提示" ;
+"SImageQuarlity" = "图片质量" ;
+"SSmartMode" = "智能模式" ;
+"SClearCache" = "清除缓存" ;
+"SGrade" = "给我们评分" ;
+"SChangeLanguage" = "更改语言" ;
+"SCurrentVersion" = "当前版本号为" ;
+"SLoginout" = "退出登录" ;
